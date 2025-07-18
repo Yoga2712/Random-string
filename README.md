@@ -1,12 +1,20 @@
-# React + Vite
+🔐 Random String Generator
+A lightweight and responsive Random String Generator web app built with React.js, JavaScript, and Tailwind CSS. This tool allows users to generate random strings with customizable length and character sets, perfect for creating secure passwords, unique IDs, or test data.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+🎲 Random String Generation – Instantly generates strings of any length
 
-Currently, two official plugins are available:
+⚙️ Custom Options – Choose between alphabets, numbers, symbols, or all combined
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔁 Regenerate on Click – Easily generate new strings with a single click
 
-## Expanding the ESLint configuration
+📱 Responsive UI – Fully mobile-friendly interface built with Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📋 Copy to Clipboard – Quickly copy the generated string with one click
+
+🛠 Tech Stack
+React.js – Component-based frontend framework
+
+JavaScript – Core logic for string generation
+
+Tailwind CSS – Utility-first styling for fast and responsive design
